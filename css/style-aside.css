@@ -1,0 +1,26 @@
+aside {
+	position: fixed;
+	margin-top: -30px;
+}
+
+aside .title {
+	position: absolute;
+	width: 230px;
+	float: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: white;
+	margin-left: 100
+}
+
+aside a {
+	text-decoration: none;
+	font-style: oblique;
+	width: 250px;
+	font-size: 40px;
+	color: #600001;
+	text-align: right;
+	font-weight: 500;
+	float: right;
+	padding-right: 20px;
+}
